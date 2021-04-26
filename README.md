@@ -1,7 +1,7 @@
 
 
 <p align="center">
-   <img src="https://scontent.fbdo6-2.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/86263798_212413423489228_5146833901217382400_n.jpg?_nc_cat=104&_nc_sid=7aed08&efg=eyJpIjoidCJ9&_nc_eui2=AeHlH6GrgXSuy9iSoghAWIi9ZbcBJGTmFIxltwEkZOYUjOUA9-xrpMpSz-CrVRV6ifMWu2iY68f3oMgLHA8chx49&_nc_ohc=ieRftqOk7UYAX_d5H3q&_nc_ht=scontent.fbdo6-2.fna&tp=14&oh=2e7aec0f5ee34b96dacf337f3c458ea1&oe=5F35E86C" width="450px">
+   <img src="https://d.top4top.io/p_1942ulswk9.jpg" width="450px">
 </p>
 
 ## Tentang Ku
