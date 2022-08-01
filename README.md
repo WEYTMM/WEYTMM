@@ -26,7 +26,7 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/WEYTMM)](https://t.me/WEYTMM)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://fb.me/WEYT.MM)](https://fb.me/WEYT.MM)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)](https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=6285886368391&text=Olá!)](https://api.whatsapp.com/send?phone=6285886368391&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:weytmm@gmail.com)](mailto:weytmm@gmail.com)
  </div>
 
